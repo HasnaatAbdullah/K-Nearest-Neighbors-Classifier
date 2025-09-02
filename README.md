@@ -39,9 +39,7 @@ In this project, I focused on **classification**, where the model predicts a cla
 
 ---
 
-## **Requirements**
 
-Create a file named **requirements.txt** and add the following:
 
 ```txt
 numpy
